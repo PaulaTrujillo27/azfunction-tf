@@ -1,4 +1,4 @@
-#Proofs Exercise:
+# Proofs Exercise:
 
 1. Terraform Plan
 
